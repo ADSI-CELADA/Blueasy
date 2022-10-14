@@ -332,8 +332,10 @@ footer a{
     }
 
     .contacto input {
-        width: 400px;
+        width: 200px    ;
     }
+
+    
 
     footer{
         display: block;
